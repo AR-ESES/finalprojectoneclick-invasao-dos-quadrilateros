@@ -9,7 +9,7 @@ var pipes = [];
 let bImg;
 
 function preload () {
-  bImg = loadImage('background.png');
+  bImg = loadImage('images/background.png');
 
 }
 function setup() {
