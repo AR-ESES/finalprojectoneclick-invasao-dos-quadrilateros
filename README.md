@@ -6,4 +6,4 @@
 
 ## Um jogo no qual vai ter de seguir o ritmo para adivinhar os próximos passos do seu inimigo.
 
-![fundo do Jogo](image/background.png)
+![fundo do Jogo](images/background.png)
