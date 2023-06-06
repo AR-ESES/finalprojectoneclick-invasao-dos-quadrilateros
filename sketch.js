@@ -7,10 +7,12 @@
 var bird;
 var pipes = [];
 let bImg;
+let uImg;
+
 
 function preload () {
   bImg = loadImage('images/background.png');
-
+  uImg = loadImage('images/nave.png');
 }
 function setup() {
   createCanvas(windowWidth, windowHeight);
