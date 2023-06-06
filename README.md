@@ -11,4 +11,4 @@
 ## [Jogo.](https://ar-eses.github.io/finalprojectoneclick-invasao-dos-quadrilateros/)
 
 ## Fundo:
-![fundo do Jogo](images/background.png)
+![Fundo](images/background.png)
