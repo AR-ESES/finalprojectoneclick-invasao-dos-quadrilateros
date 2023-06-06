@@ -13,7 +13,7 @@ function Bird() {
 
   this.show = function() {
     fill(255);
-    image(uImg, this.x, this.y, 32, 32);
+    image(uImg, this.x, this.y, 64, 64);
   }
 
 
@@ -22,19 +22,9 @@ function Bird() {
   }
 
   this.update = function() {
-    this.velocity += this.gravity;
-    // this.velocity *= 0.9;
-    this.y += this.velocity;
+ 
+    this.y = mouseY;
 
-    if (this.y > height) {
-      this.y = height;
-      this.velocity = 0;
-    }
-
-    if (this.y < 0) {
-      this.y = 0;
-      this.velocity = 0;
-    }
 
   }
 
