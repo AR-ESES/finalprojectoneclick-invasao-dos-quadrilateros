@@ -62,3 +62,11 @@
 ![Layout](Layouts/Artboard20.png)
 ![Layout](Layouts/Artboard21.png)
 ![Layout](Layouts/Artboard22.png)
+
+# [O Vídeo promocional:](https://www.youtube.com/watch?v=aNtO9_Arep0)
+# [Jogo Teste](https://youtu.be/eBjqIc64Ghs)
+
+# Storyboards:
+![Storyboard](Storyboard/Storyboard1.jpg)
+![Storyboard](Storyboard/Storyboard2.png)
+![Storyboard](Storyboard/Storyboard2.png)
