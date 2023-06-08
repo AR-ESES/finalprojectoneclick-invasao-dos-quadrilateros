@@ -25,6 +25,6 @@
 
 ![Background](images/background.png)
 ![Jogador](imagens/NaveJogador.png)
-![Vida](images/Vida.png)
-![Inimigos](images/inimigos.png)
-![Obstáculo](images/Asteroide.png)
+![Vida](imagens/Vida.png)
+![Inimigos](imagens/inimigos.png)
+![Obstáculo](imagens/Asteroide.png)
