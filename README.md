@@ -63,10 +63,17 @@
 ![Layout](Layouts/Artboard21.png)
 ![Layout](Layouts/Artboard22.png)
 
-# [O Vídeo promocional:](https://www.youtube.com/watch?v=aNtO9_Arep0)
-# [Jogo Teste](https://youtu.be/eBjqIc64Ghs)
+## [Vídeo promocional](https://www.youtube.com/watch?v=aNtO9_Arep0)
+## [Jogo Teste](https://youtu.be/eBjqIc64Ghs)
 
-# Storyboards:
+## Storyboards:
 ![Storyboard](Storyboard/Storyboard1.jpg)
 ![Storyboard](Storyboard/Storyboard2.png)
 ![Storyboard](Storyboard/Storyboard2.png)
+
+# Considerações Finais
+## Este projeto, jogo “Invasão dos Quadriláteros”, foi realizado para a UC de Design Multimédia, do Curso de Produção Multimédia para a Educação e permitiu-nos aplicar os conhecimentos adquiridos na área do design aplicados à produção multimédia. 
+## Este jogo, de estilo “One-Click Game”, cuja temática são “Figuras geométricas”, poderá ser usado somente como entretenimento ou, em contexto educativo, por crianças até aos 12 anos. As diferentes figuras geométricas e os elementos de som/ ritmo existentes no jogo poderão ser utilizados para o treino da memória, melhorar a atenção-concentração dos alunos e desenvolver a motricidade ou capacidade de reação. 
+## A publicação deste jogo “Invasão dos Quadriláteros” será feita somente no Github.
+
+### Créditos: Diogo Dionísio e Diogo Alexandre.
