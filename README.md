@@ -24,7 +24,7 @@
 ## Como podemos ver a seguir:
 
 ![Background](images/background.png)
-![Jogador](imagens/Nave+Naveicon.png)
-![Background](images/background.png)
-![Background](images/background.png)
-![Background](images/background.png)
+![Jogador](imagens/NaveJogador.png)
+![Vida](images/Vida.png)
+![Inimigos](images/inimigos.png)
+![Obstáculo](images/Asteroide.png)
