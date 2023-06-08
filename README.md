@@ -16,7 +16,7 @@
 
 # COMO CONTRUÍMOS
 ### [Paper Test](https://youtu.be/z_fZtz_0Q8A)
-## Para a realização deste jogo começamos com uma “partilha” de ideias. De seguida, testámos as nossas ideias usando modelos em papel (paper test) para simular o jogo.
+## Para a realização deste jogo começamos com uma “partilha” de ideias. De seguida, testámos as nossas ideias usando modelos em papel para simular o jogo.
 
 ### Design do projeto
 ## Foram feitos vários rascunhos, inicialmente em papel e por fim em digital, no Adobe Illustrator, até obtermos um produto que nos agradou. O design final do projeto, resultou assim de várias experiências e da correção de erros que foram encontrados.
@@ -29,7 +29,7 @@
 ## O jogador (nave):
 ![Jogador](imagens/NaveJogador.png)
 
-## As “vidas” do jogador:
+## As “vidas” do jogador:S
 ![Vida](imagens/Vida.png)
 
 ## Os inimigos:
