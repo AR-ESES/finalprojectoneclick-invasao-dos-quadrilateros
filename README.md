@@ -15,8 +15,8 @@
 ## Tenta chegar ao final da música sem perder todas as “vidas”. Diverte-te.
 
 # COMO CONTRUÍMOS
-### Paper Test
-## [Para a realização deste jogo começamos com uma “partilha” de ideias. De seguida, testámos as nossas ideias usando modelos em papel (paper test) para simular o jogo.](https://youtu.be/z_fZtz_0Q8A)
+### [Paper Test](https://youtu.be/z_fZtz_0Q8A)
+## Para a realização deste jogo começamos com uma “partilha” de ideias. De seguida, testámos as nossas ideias usando modelos em papel (paper test) para simular o jogo.
 
 ### Design do projeto
 ## Foram feitos vários rascunhos, inicialmente em papel e por fim em digital, no Adobe Illustrator, até obtermos um produto que nos agradou. O design final do projeto, resultou assim de várias experiências e da correção de erros que foram encontrados.
