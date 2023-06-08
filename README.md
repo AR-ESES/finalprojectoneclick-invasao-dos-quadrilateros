@@ -2,14 +2,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11255585&assignment_repo_type=AssignmentRepo)
 
 
-# Invasão dos Quadriláteros
-
-## Um jogo de ritmo onde tem que parar a invasão e salvar a Terra!
-
-## [Trailer.](https://www.youtube.com/watch?v=aNtO9_Arep0)
-
-## [Jogo.](https://ar-eses.github.io/finalprojectoneclick-invasao-dos-quadrilateros/)
-
-## Fundo:
-![Fundo](images/background.png)
-Lore Ipsum
+![Logotipo](imagens/Logo.png)
+![Nave](imagens/Nave.png)
