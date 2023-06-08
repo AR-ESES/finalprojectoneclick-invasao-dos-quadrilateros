@@ -17,3 +17,14 @@
 # COMO CONTRUÍMOS
 ### Paper Test
 ## [Para a realização deste jogo começamos com uma “partilha” de ideias. De seguida, testámos as nossas ideias usando modelos em papel (paper test) para simular o jogo.](https://youtu.be/z_fZtz_0Q8A)
+
+### Design do projeto
+## Foram feitos vários rascunhos, inicialmente em papel e por fim em digital, no Adobe Illustrator, até obtermos um produto que nos agradou. O design final do projeto, resultou assim de várias experiências e da correção de erros que foram encontrados.
+
+## Como podemos ver a seguir:
+
+![Background](images/background.png)
+![Jogador](imagens/Nave+Naveicon.png)
+![Background](images/background.png)
+![Background](images/background.png)
+![Background](images/background.png)
