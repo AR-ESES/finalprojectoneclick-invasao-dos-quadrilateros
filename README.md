@@ -23,8 +23,42 @@
 
 ## Como podemos ver a seguir:
 
+## Background:
 ![Background](images/background.png)
+
+## O jogador (nave):
 ![Jogador](imagens/NaveJogador.png)
+
+## As “vidas” do jogador:
 ![Vida](imagens/Vida.png)
+
+## Os inimigos:
 ![Inimigos](imagens/inimigos.png)
+
+## Os obstáculos:
 ![Obstáculo](imagens/Asteroide.png)
+
+## Depois passámos da fase inicial de paper test para o layout.
+
+![Layout](Layouts/Artboard1.png)
+![Layout](Layouts/Artboard2.png)
+![Layout](Layouts/Artboard3.png)
+![Layout](Layouts/Artboard4.png)
+![Layout](Layouts/Artboard5.png)
+![Layout](Layouts/Artboard6.png)
+![Layout](Layouts/Artboard7.png)
+![Layout](Layouts/Artboard8.png)
+![Layout](Layouts/Artboard9.png)
+![Layout](Layouts/Artboard10.png)
+![Layout](Layouts/Artboard11.png)
+![Layout](Layouts/Artboard12.png)
+![Layout](Layouts/Artboard13.png)
+![Layout](Layouts/Artboard14.png)
+![Layout](Layouts/Artboard15.png)
+![Layout](Layouts/Artboard16.png)
+![Layout](Layouts/Artboard17.png)
+![Layout](Layouts/Artboard18.png)
+![Layout](Layouts/Artboard19.png)
+![Layout](Layouts/Artboard20.png)
+![Layout](Layouts/Artboard21.png)
+![Layout](Layouts/Artboard22.png)
