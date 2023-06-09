@@ -29,7 +29,7 @@
 ## O jogador (nave):
 ![Jogador](imagens/NaveJogador.png)
 
-## As “vidas” do jogador:S
+## As “vidas” do jogador:
 ![Vida](imagens/Vida.png)
 
 ## Os inimigos:
