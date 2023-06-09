@@ -5,16 +5,16 @@
 ![Logotipo](imagens/Logo.png)
 ![Nave](imagens/Nave.png)
 
-# SINPOSE
+# Sinopse
 ## Num longínquo futuro tecnológico, o planeta Terra encontra-se em perigo devido aos destruidores de galáxias, “Os quadriláteros”… Só de ouvir o nome provoca arrepios! Mas, este planeta tem uma “arma” secreta contra os invasores, uma nave de guerra construída com a tecnologia mais avançada e com acesso a armas super… imper… mega… poderosas!
 ## Oh! Espera. As armas foram proibidas. Não tem armas. [Não tem armas?!] Para destruir os inimigos tem de ir contra eles, mas por favor desvia-te dos asteroides ou perdes “Vidas”!! E, tens poucas.
 
-# COMO JOGAR
+# Como jogar
 ## Este jogo é semelhante ao “space invaders”, com elementos de ritmo e sem tiros. O objetivo do jogo é a nave destruir os inimigos, que atacam ao ritmo da música. 
 ## Fica atento aos inimigos, prevê os ataques e defende o planeta. Perdes “vidas” se deixares o inimigo passar ou quando um asteroide embate na nave. Atenção, só tens quatro “vidas”. Há inimigos mais poderosos e destruidores, os que são mais compridos tiram três “vidas” de uma só vez. Assim, dependendo do tamanho do inimigo, podes perder três, duas ou uma “vida”. Deves estar muito atento! 
 ## Tenta chegar ao final da música sem perder todas as “vidas”. Diverte-te.
 
-# COMO CONTRUÍMOS
+# Como construímos
 ### [Paper Test](https://youtu.be/z_fZtz_0Q8A)
 ## Para a realização deste jogo começamos com uma “partilha” de ideias. De seguida, testámos as nossas ideias usando modelos em papel para simular o jogo.
 
