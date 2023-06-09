@@ -69,7 +69,7 @@
 ## Storyboards:
 ![Storyboard](Storyboard/Storyboard1.jpg)
 ![Storyboard](Storyboard/Storyboard2.png)
-![Storyboard](Storyboard/Storyboard2.png)
+![Storyboard](Storyboard/Storyboard3.png)
 
 # Considerações Finais
 ## Este projeto, jogo “Invasão dos Quadriláteros”, foi realizado para a UC de Design Multimédia, do Curso de Produção Multimédia para a Educação e permitiu-nos aplicar os conhecimentos adquiridos na área do design aplicados à produção multimédia. 
