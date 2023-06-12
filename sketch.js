@@ -47,7 +47,7 @@ function draw() {
     pipes.push(new Pipe());
   }
   
-  square(1550,50,80,80);
+  image(vImg, 1750,50,120,120);
 }
 
 
