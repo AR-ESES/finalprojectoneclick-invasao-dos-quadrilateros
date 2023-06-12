@@ -46,5 +46,8 @@ function draw() {
   if (frameCount % 75 == 0) {
     pipes.push(new Pipe());
   }
+  
+  square(1550,50,80,80);
 }
+
 
