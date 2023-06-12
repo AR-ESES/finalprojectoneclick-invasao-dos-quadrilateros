@@ -8,11 +8,15 @@ var bird;
 var pipes = [];
 let bImg;
 let uImg;
+let qImg;
+let vImg;
 
 
 function preload () {
   bImg = loadImage('images/background.png');
   uImg = loadImage('images/nave.png');
+  qImg = loadImage('images/quad.png');
+  vImg = loadImage('images/cora.png');
 }
 function setup() {
   createCanvas(windowWidth, windowHeight);
