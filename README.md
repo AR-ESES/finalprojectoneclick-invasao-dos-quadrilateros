@@ -14,14 +14,13 @@
 ## Fica atento aos inimigos, prevê os ataques e defende o planeta. Perdes “vidas” se deixares o inimigo passar ou quando um asteroide embate na nave. Atenção, só tens quatro “vidas”. Há inimigos mais poderosos e destruidores, os que são mais compridos tiram três “vidas” de uma só vez. Assim, dependendo do tamanho do inimigo, podes perder três, duas ou uma “vida”. Deves estar muito atento! 
 ## Tenta chegar ao final da música sem perder todas as “vidas”. Diverte-te.
 
-# Como construímos
+# Como construímos o jogo
 ### [Paper Test](https://youtu.be/z_fZtz_0Q8A)
 ## Para a realização deste jogo começamos com uma “partilha” de ideias. De seguida, testámos as nossas ideias usando modelos em papel para simular o jogo.
 
 ### Design do projeto
 ## Foram feitos vários rascunhos, inicialmente em papel e por fim em digital, no Adobe Illustrator, até obtermos um produto que nos agradou. O design final do projeto, resultou assim de várias experiências e da correção de erros que foram encontrados.
 
-## Como podemos ver a seguir:
 
 ## Background:
 ![Background](images/background.png)
@@ -38,7 +37,7 @@
 ## Os obstáculos:
 ![Obstáculo](imagens/Asteroide.png)
 
-## Depois passámos da fase inicial de paper test para o layout.
+## Depois passamos da fase inicial de paper test para o layout.
 
 ![Layout](Layouts/Artboard1.png)
 ![Layout](Layouts/Artboard2.png)
@@ -64,7 +63,7 @@
 ![Layout](Layouts/Artboard22.png)
 
 ## [Vídeo promocional](https://www.youtube.com/watch?v=aNtO9_Arep0)
-## [Jogo Teste](https://youtu.be/eBjqIc64Ghs)
+## [Teste para o vídeo promocional](https://youtu.be/eBjqIc64Ghs)
 
 ## Storyboards:
 ![Storyboard](Storyboard/Storyboard1.jpg)
